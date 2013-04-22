@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//3b0\u003d",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2013-04-22T10:49:30Z",
+      "side": 1,
+      "message": "just this line should be enough afaik.",
+      "revId": "39d29ca43fa4bd9ade1b87770a3b9c77b4d5e074",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
